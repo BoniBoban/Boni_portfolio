@@ -1,14 +1,4 @@
-# 👋 Hi, I'm Boniface Boben  
-Lead Data Analyst | Data-Driven Decision Making | Transforming Insights into Impact 
 
-config.yml
-
-title: Boniface 
-logo: Untitled design.png
-theme: jekyll-theme-minimal
-description: Lead Data Analyst | Data-Driven Decision Making
-
-ReadMe
 
 # 👋 Hi, I'm Boniface Boben  
 Lead Data Analyst | Data-Driven Decision Making | Transforming Insights into Impact  
