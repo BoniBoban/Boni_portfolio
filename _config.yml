@@ -1,3 +1,23 @@
 title: Boniface Boben
-logo : WhatsApp Image 2025-02-18 at 14.36.14_6b5ac9a4.jpg
+logo: /assets/img/profile.jpg  # rename your logo to profile.jpg and place in assets/img/
 theme: jekyll-theme-minimal
+
+description: >-
+  Lead Data Analyst | Power BI | Tableau | SQL | Excel | Helping businesses make data-driven decisions with clear, compelling dashboards.
+
+url: "https://boniboban.github.io"  # your GitHub Pages URL
+baseurl: ""  # Leave empty if not in a subfolder
+
+email: boniboban@gmail.com
+github_username: boniboban
+linkedin_username: boniface-boben
+location: Calicut, India
+
+social_links:
+  - name: GitHub
+    url: https://github.com/boniboban
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/boniboban
+  - name: Email
+    url: boniboban@gmail.com
+
