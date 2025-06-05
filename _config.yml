@@ -3,16 +3,5 @@ logo: WhatsApp Image 2025-02-18 at 14.36.14_6b5ac9a4.jpg
 theme: jekyll-theme-minimal
 
 description: >-
-  Lead Data Analyst | Power BI | Tableau | SQL | Excel | Helping businesses make data-driven decisions with clear, compelling dashboards.
-
-email: boniboban@gmail.com
-github_username: boniboban
-linkedin_username: boniface-boben
-location: Calicut, India
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      css: "/style.css"  # Refers to the root-level CSS file
+  Lead Data Analyst | Power BI | Tableau | SQL | Excel |
+  Helping businesses make data-driven decisions with clear, compelling dashboards.
