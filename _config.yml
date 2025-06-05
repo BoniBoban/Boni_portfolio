@@ -10,3 +10,9 @@ github_username: boniboban
 linkedin_username: boniface-boben
 location: Calicut, India
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      css: "/style.css"  # Refers to the root-level CSS file
