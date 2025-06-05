@@ -5,9 +5,6 @@ theme: jekyll-theme-minimal
 description: >-
   Lead Data Analyst | Power BI | Tableau | SQL | Excel | Helping businesses make data-driven decisions with clear, compelling dashboards.
 
-url: "https://boniboban.github.io"  # your GitHub Pages URL
-baseurl: ""  # Leave empty if not in a subfolder
-
 email: boniboban@gmail.com
 github_username: boniboban
 linkedin_username: boniface-boben
