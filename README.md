@@ -44,7 +44,7 @@ I bring a versatile approach to data storytelling, stakeholder engagement, and t
 🏨 AtliQ Grands faced declining market share and revenue due to poor management decisions.  
 💡 Developed interactive dashboards to analyze key metrics, including RevPAR, ADR, and occupancy.  
 📊 Insights supported decision-making for enhanced performance.  
-![image](H2.png)  
+![image](hospitality.jpg)
 [🔗 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODE4NDQyNTMtOTJmZC00MjRiLWI4MWUtNTFlZGRhZDIwYjQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=931b63cfc48963c6886a)  
 
  
